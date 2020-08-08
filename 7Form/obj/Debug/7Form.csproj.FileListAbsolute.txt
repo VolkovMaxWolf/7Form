@@ -1,0 +1,10 @@
+D:\Wolf\7Form\7Form\bin\Debug\7Form.exe.config
+D:\Wolf\7Form\7Form\bin\Debug\7Form.exe
+D:\Wolf\7Form\7Form\bin\Debug\7Form.pdb
+D:\Wolf\7Form\7Form\obj\Debug\7Form.csprojAssemblyReference.cache
+D:\Wolf\7Form\7Form\obj\Debug\_7Form.Form1.resources
+D:\Wolf\7Form\7Form\obj\Debug\_7Form.Properties.Resources.resources
+D:\Wolf\7Form\7Form\obj\Debug\7Form.csproj.GenerateResource.cache
+D:\Wolf\7Form\7Form\obj\Debug\7Form.csproj.CoreCompileInputs.cache
+D:\Wolf\7Form\7Form\obj\Debug\7Form.exe
+D:\Wolf\7Form\7Form\obj\Debug\7Form.pdb
